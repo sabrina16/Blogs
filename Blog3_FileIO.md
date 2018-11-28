@@ -32,6 +32,7 @@ variable assosicated with the read/write transaction.
 
 #Same reference as above
 ```
+
 Unlike many other languages, Common Lisp commonly takes multiple keyword arguments in one line when reading or writing to a file. 
 Let's take a look at some acceptable formats. 
 ```
