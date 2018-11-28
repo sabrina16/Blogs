@@ -1,9 +1,7 @@
 # Computations and Syntax!
 During our first week in class, we mainly covered the topics in Computation and Syntax. 
 
-Computations refer to how computers perform calculations, and syntax is defined as the set of grammar rules that a specific programming language must follow. 
-
-**As we refer back to Common Lisp, we found something incredibly interesting. In Common Lisp, there is a special notation that is used called “Polish Notation.”
+Computations refer to how computers perform calculations, and syntax is defined as the set of grammar rules that a specific programming language must follow. As we refer back to Common Lisp, we found something incredibly interesting. In Common Lisp, there is a special notation that is used called “Polish Notation.”
 
 Polish notation, also known as prefix notation, is a mathematical notation where the operator precedes the operand. It's very different 
 from what we are normally used to. An example of a basic addition operation in Java looks like this: 
