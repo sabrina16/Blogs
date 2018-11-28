@@ -22,7 +22,7 @@ The expression in conventional infix notation would be written as
 ```
 In Polish notation, the same expression would be written as
 ```
-x (-5 6) x 7
+x (- 5 6) 7
 ``` 
 
 It is important to keep in mind that the "-" denotes the binary operation of subtraction. Prefix/postfix notation is popular 
