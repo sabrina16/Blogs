@@ -68,4 +68,11 @@ ba->bbaa
   2. Words that have an odd number of a only 
   3. (b-a) mod 2 = 0 where b≥1
   4. (b-a) mod 2 = 1 where  b≥1
- 
+* Can you change the rules so that the ARS becomes terminating without changing its equivalence classes?
+```
+bbaa->ab
+aa ->
+ab->ba
+```
+Using a measure function that counts the strings length proves termination because the number of letters 
+keeps reducing until it eventually terminates. 
