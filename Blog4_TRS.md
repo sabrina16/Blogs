@@ -1,4 +1,4 @@
-#Abstract Reduction Systems
+# Abstract Reduction Systems
 This week in class, we covered Abstract Reduction Systems. For our algorithm, we chose to take a look at the Fibonacci sequence. The Fibonacci sequence is a simple and recursvie algorithm that we can explore to help us learn new techniques when developing our own programs. 
 
 
