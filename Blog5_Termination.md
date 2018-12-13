@@ -1,3 +1,14 @@
+Exercise: Show that whatever the test <TEST> the program below
+
+''' 
+while ub > lb + 1 do
+begin r : = (ub + lb) div 2;
+if <TEST> then ub := r else lb := r
+end 
+'''
+
+
+
 ;; "While" can also serve as a termination check.  Both
 ;; "do" and "collect" can be combined in one expression.
 
