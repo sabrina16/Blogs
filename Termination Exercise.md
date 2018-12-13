@@ -1,4 +1,4 @@
-# Termination using a while loop 
+# Termination 
 
 To demonstrate termination, we implented a factorial function. We chose Factorials because they have a lot of 
 practical applications. They often appear in calculus, specifically Taylor's Thereom. Another practical use of Factorials
