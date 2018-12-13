@@ -52,15 +52,16 @@ abab -> aabb
 ```
 * Can we reduce ba to abbaababbab? No, the system is not terminating. 
 ```
-ba->bbaa
-->bbbaaa
-->bbbbaaaa
-->bbbbbaaaaa
-->bbbbbbaaaaaa
-->bbbbbabaaaaa
-->bbbbabbaaaaa
-->…………
--> abbaababbaba
+ba ->
+bbaa ->
+bbbaaa ->
+bbbbaaaa ->
+bbbbbaaaaa ->
+bbbbbbaaaaaa ->
+bbbbbabaaaaa ->
+bbbbabbaaaaa ->
+………… -> 
+abbaababbaba
 ```
 * Can we reduce ba to abbaababbaba? Yes, same as above. 
 * Can you find a nice way of stating which words are in the equivalence class of ba?
@@ -70,9 +71,9 @@ ba->bbaa
   4. (b-a) mod 2 = 1 where  b≥1
 * Can you change the rules so that the ARS becomes terminating without changing its equivalence classes?
 ```
-bbaa->ab
+bbaa -> ab
 aa ->
-ab->ba
+ab -> ba
 ```
 Using a measure function that counts the strings length proves termination because the number of letters 
 keeps reducing until it eventually terminates. 
