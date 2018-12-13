@@ -64,8 +64,8 @@ ba->bbaa
 ```
 * Can we reduce ba to abbaababbaba? Yes, same as above. 
 * Can you find a nice way of stating which words are in the equivalence class of ba?
-   1. Words that have an even number of a only
-   2. Words that have an odd number of a only 
-   3. (b-a) mod 2 = 0 where b≥1
-   4. (b-a) mod 2 = 1 where  b≥1
+ 1. Words that have an even number of a only
+ 2. Words that have an odd number of a only 
+ 3. (b-a) mod 2 = 0 where b≥1
+ 4. (b-a) mod 2 = 1 where  b≥1
  
