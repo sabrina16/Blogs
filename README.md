@@ -17,3 +17,6 @@ Implement mortage calculator. Write a blog about File I/O to add as a feature in
 
 Testing Stage (DUE DATE: December 7th, 2018):
 Compile and run the program. Fix any outstanding bugs. Blog post about project and Common Lisp. 
+
+## Common Lisp Presenation link 
+https://docs.google.com/presentation/d/1pOl5MnmOWtnJZ-5Eo0zAPPGdd2fNu8Xm2DLC0UxSDsA/edit?usp=sharing
