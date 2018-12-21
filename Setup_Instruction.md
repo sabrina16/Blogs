@@ -21,7 +21,7 @@ For Windows:
 2.Unzip it if needed and go through the startup.
 3. I reccomend going with the feature that allows it in command prompt it makes it easy to access
 
-For Macintosh:
+For Macintosh:  
 (I learned this from the site https://sanjib.org/2014/01/26/installing-common-lisp-clisp-on-mac-os-x/comment-page-1/)
 
 1. Open terminal (can use spotlight search to find it)
