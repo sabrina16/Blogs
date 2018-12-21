@@ -1,8 +1,6 @@
-Setup instructions:
-1.Download the MortgageCalculator.lisps source code depending on how you donwloaded it you may need to unzip it
-
-2. Download CLisp compiler for Common Lisp read below where it says "How to download CLisp:" to learn how you may also need to unzip the file after
-and find a proper place to store it on your computer or laptop
+Setup instructions:  
+1.Download the MortgageCalculator.lisps source code depending on how you donwloaded it you may need to unzip it  
+2. Download CLisp compiler for Common Lisp read below where it says "How to download CLisp:" to learn how you may also need to unzip the file after and find a proper place to store it on your computer or laptop
 
 3. After downloading CLisp, open it can be done by typing CLisp in the terminal for Macintosh and Linux
 (or Command Prompt if you allowed it when setting up). When you see a menorah made up of ASCII characters here you are in the right place.
@@ -26,23 +24,23 @@ For Macintosh:
 (I learned this from the site https://sanjib.org/2014/01/26/installing-common-lisp-clisp-on-mac-os-x/comment-page-1/)
 
 1. Open terminal (can use spotlight search to find it)
-111
-2. Use the following command to download Homebrew that will help download CLisp
+
+2. Use the following command to download Homebrew that will help download CLisp  
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-3. Then install CLisp by using the next following command
+3. Then install CLisp by using the next following command  
 brew install clisp
 
-or if you would like to verbose the output use:
+or if you would like to verbose the output use:  
 brew -v install clisp
 
-For Ubuntu Linux (this might be the same for other distros of Linux):
+For Ubuntu Linux (this might be the same for other distros of Linux):  
 (I learned how to do it from this site https://roshanbook.wordpress.com/2012/09/22/setting-up-lisp-on-ubuntu-linux/)
 
-1. Type this command in the terminal:
+1. Type this command in the terminal:  
 sudo apt-get install clisp 
 
-Sources for startup:
+Sources I used to write this:
 https://sourceforge.net/projects/clisp/
 https://sanjib.org/2014/01/26/installing-common-lisp-clisp-on-mac-os-x/comment-page-1/
 http://cygwin.wikia.com/wiki/Clisp
