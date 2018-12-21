@@ -53,16 +53,7 @@
 ;start program here
 
 ;instance of the class above
-
 (setf mortgage (make-instance 'loan))
-
-;default values so I don't get a warning
-;check if I actually need this****
-#|
-(setf (loan-rate mortgage) (/ 500 1200))
-(setf (loan-principal mortgage) (float 0))
-(setf (loan-time mortgage) (* 1 12))
-|#
 
 ;title program
 (format t "   Fixed-rate Mortgage Calculator~%")
