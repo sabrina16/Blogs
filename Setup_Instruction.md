@@ -27,23 +27,23 @@ For Macintosh:
 1. Open terminal (can use spotlight search to find it)
 
 2. Use the following command to download Homebrew that will help download CLisp
-...
+```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-...
+```
 3. Then install CLisp by using the next following command  
-...
+```
 brew install clisp
 
 or if you would like to verbose the output use:  
 brew -v install clisp
-...
+```
 For Ubuntu Linux (this might be the same for other distros of Linux):  
 (I learned how to do it from this site https://roshanbook.wordpress.com/2012/09/22/setting-up-lisp-on-ubuntu-linux/)
 
 1. Type this command in the terminal:  
-...
+```
 sudo apt-get install clisp
-...
+```
 ## Sources I used to write this:  
 https://sourceforge.net/projects/clisp/
 https://sanjib.org/2014/01/26/installing-common-lisp-clisp-on-mac-os-x/comment-page-1/
