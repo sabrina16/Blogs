@@ -20,3 +20,6 @@ Compile and run the program. Fix any outstanding bugs. Blog post about project a
 
 ## Common Lisp Presenation link 
 https://docs.google.com/presentation/d/1pOl5MnmOWtnJZ-5Eo0zAPPGdd2fNu8Xm2DLC0UxSDsA/edit?usp=sharing
+
+## Link for startup instructions on MortgageCalculator.lisp and downloading CLisp  
+https://github.com/sabrina16/Blogs/blob/master/Setup_Instruction.md
