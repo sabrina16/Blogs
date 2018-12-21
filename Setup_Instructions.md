@@ -10,7 +10,7 @@
 Since CLisp is reading the absolute pathname as a string, you need to put a \ as an escape character for other backslashes and single or double quotation marks inside of the name.
 Windows users may be able to locate the file MortgageCalculator.lisp inside their File Explorer and right click the source code file and then click "Compile with CLisp" and then run the code
 the file also names MortgageCalculator but the file type is CLisp compiled file instead of Lisp source file.
-
+If you are on Windows and do not know your absolute pathname I recommend searching for File Explorer options next to the Windows button, going to the view tab, then clicking Display full path in the title bar. This will allow the user to see their absolute path at the top of their File Explorer for directory they are in.
 5. The program should then run inside of the terminal.
 
 ## How to download CLisp:
