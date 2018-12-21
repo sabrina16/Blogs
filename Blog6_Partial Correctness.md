@@ -3,7 +3,7 @@
 Partial Correctness is correct under the assumption of termination. Given this information, we will use our Factorial algorithm from the termination exercise to prove partial correctness. 
 ```
 (defun factorial (n)
-  (if (= n 0) ;or (= n 1)
+  (if (= n 0)
       1                           
       (* n (factorial (- n 1))))) 
 
