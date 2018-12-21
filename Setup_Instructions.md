@@ -1,4 +1,4 @@
-## Setup instructions:  
+## Setup Instructions:  
 1. Download the MortgageCalculator.lisp source code from this Github depending on how you donwloaded it you may need to unzip it  
 
 2. Download CLisp compiler for Common Lisp read below where it says "How to download CLisp:" to learn how you may also need to unzip the file after and find a proper place to store it on your computer or laptop
