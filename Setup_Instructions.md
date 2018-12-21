@@ -13,15 +13,15 @@ the file also names MortgageCalculator but the file type is CLisp compiled file 
 
 5. The program should then run inside of the terminal.
 
-How to download CLisp:
+## How to download CLisp:
 
-For Windows:
+__For Windows:__
 
 1.Download CLisp from this site keep track of where you stored it.
 2.Unzip it if needed and go through the startup.
 3. I reccomend going with the feature that allows it in command prompt it makes it easy to access
 
-For Macintosh:  
+__For Macintosh:__  
 (I learned this from the site https://sanjib.org/2014/01/26/installing-common-lisp-clisp-on-mac-os-x/comment-page-1/)
 
 1. Open terminal (can use spotlight search to find it)
@@ -37,7 +37,7 @@ brew install clisp
 or if you would like to verbose the output use:  
 brew -v install clisp
 ```
-For Ubuntu Linux (this might be the same for other distros of Linux):  
+__For Ubuntu Linux:__ (this might be the same for other distros of Linux):  
 (I learned how to do it from this site https://roshanbook.wordpress.com/2012/09/22/setting-up-lisp-on-ubuntu-linux/)
 
 1. Type this command in the terminal:  
