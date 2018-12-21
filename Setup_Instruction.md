@@ -45,11 +45,11 @@ For Ubuntu Linux (this might be the same for other distros of Linux):
 sudo apt-get install clisp
 ```
 ## Sources I used to write this:  
-https://sourceforge.net/projects/clisp/
-https://sanjib.org/2014/01/26/installing-common-lisp-clisp-on-mac-os-x/comment-page-1/
-http://cygwin.wikia.com/wiki/Clisp
-https://stackoverflow.com/questions/31628803/run-a-common-lisp-file-from-the-clisp-interface-error
-https://www.cs.columbia.edu/~jvoris/AI/notes/lisp-running.txt
-https://roshanbook.wordpress.com/2012/09/22/setting-up-lisp-on-ubuntu-linux/
+https://sourceforge.net/projects/clisp/  
+https://sanjib.org/2014/01/26/installing-common-lisp-clisp-on-mac-os-x/comment-page-1/  
+http://cygwin.wikia.com/wiki/Clisp  
+https://stackoverflow.com/questions/31628803/run-a-common-lisp-file-from-the-clisp-interface-error  
+https://www.cs.columbia.edu/~jvoris/AI/notes/lisp-running.txt  
+https://roshanbook.wordpress.com/2012/09/22/setting-up-lisp-on-ubuntu-linux/  
 http://www.lispworks.com/news/news35.html
 
