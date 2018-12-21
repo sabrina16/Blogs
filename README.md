@@ -1,8 +1,9 @@
 # Programming Languages Blog
 
 Hi! Our names are Sabrina Toubbeh and Gregory Albarian. For our class project, we have decided to implement 
-a mortgage calculator in the programming language Common Lisp. Our goal is to add some features that other 
-fundamental mortgage calculators don't offer. 
+a mortgage calculator in the programming language Common Lisp. Our mortgage calculator computes monthly payments 
+when the user inputs the annual rate, principal, and time on the loan. Our mortgage calculator also has the ability
+to allow the user to keep track of multiple loans by writing the data inputted and the monthly payment to a file.
 
 ## Timeline
 Concept Stage (DUE DATE: October 20th, 2018):
