@@ -6,11 +6,10 @@
 3. After downloading CLisp, open it can be done by typing CLisp in the terminal for Macintosh and Linux
 (or Command Prompt if you allowed it when setting up). When you see a menorah made up of ASCII characters here you are in the right place.
 
-4. In the CLisp type (load pathname) but instead of typing pathname type the absolute pathname of where you stored MortgageCalculator.lisp (including the name of source file MortgageCalculator.lisp) on your computer in double quotes.
+4. In CLisp type (load pathname) but instead of typing pathname type the absolute pathname of where you stored MortgageCalculator.lisp (including the name of source file MortgageCalculator.lisp) on your computer in double quotes.
 Since CLisp is reading the absolute pathname as a string, you need to put a \ as an escape character for other backslashes and single or double quotation marks inside of the name.
-Windows users may be able to locate the file MortgageCalculator.lisp inside their File Explorer and right click the source code file and then click "Compile with CLisp" and then run the code
-the file also names MortgageCalculator but the file type is CLisp compiled file instead of Lisp source file.
-If you are on Windows and do not know your absolute pathname I recommend searching for File Explorer options next to the Windows button, going to the view tab, then clicking Display full path in the title bar. This will allow the user to see their absolute path at the top of their File Explorer for directory they are in.
+Windows users may be able to locate the file MortgageCalculator.lisp inside their File Explorer and right click the source code file and then click "Compile with CLisp" and then run the code by clicking the file that is also named MortgageCalculator but the file type is CLisp compiled file instead of Lisp source file.
+If you are on Windows and do not know your absolute pathname I recommend searching for File Explorer options next to the Windows button, going to the view tab, then clicking Display full path in the title bar. This will allow the user to see their absolute path at the top of their File Explorer for the directory they are in.
 5. The program should then run inside of the terminal.
 
 ## How to download CLisp:
