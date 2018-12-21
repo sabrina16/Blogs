@@ -1,4 +1,4 @@
-Setup instructions:  
+## Setup instructions:  
 1.Download the MortgageCalculator.lisps source code depending on how you donwloaded it you may need to unzip it  
 2. Download CLisp compiler for Common Lisp read below where it says "How to download CLisp:" to learn how you may also need to unzip the file after and find a proper place to store it on your computer or laptop
 
@@ -40,7 +40,7 @@ For Ubuntu Linux (this might be the same for other distros of Linux):
 1. Type this command in the terminal:  
 sudo apt-get install clisp 
 
-Sources I used to write this:
+Sources I used to write this:  
 https://sourceforge.net/projects/clisp/
 https://sanjib.org/2014/01/26/installing-common-lisp-clisp-on-mac-os-x/comment-page-1/
 http://cygwin.wikia.com/wiki/Clisp
