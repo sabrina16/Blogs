@@ -20,11 +20,11 @@ Testing Stage (DUE DATE: December 7th, 2018):
 Compile and run the program. Fix any outstanding bugs. Blog post about project and Common Lisp. 
   
 ## Common Lisp Presenation link 
-https://docs.google.com/presentation/d/1pOl5MnmOWtnJZ-5Eo0zAPPGdd2fNu8Xm2DLC0UxSDsA/edit?usp=sharing
-<br/>
-Checkout our program [MortgageCalculator.lisp](https://github.com/sabrina16/Blogs/blob/master/MortgageCalculator.lisp)
+https://docs.google.com/presentation/d/1pOl5MnmOWtnJZ-5Eo0zAPPGdd2fNu8Xm2DLC0UxSDsA/edit?usp=sharing<br/>  
+
 ## Link for startup instructions on MortgageCalculator.lisp and downloading CLisp  
 https://github.com/sabrina16/Blogs/blob/master/Setup_Instructions.md  
+Checkout our program [MortgageCalculator.lisp](https://github.com/sabrina16/Blogs/blob/master/MortgageCalculator.lisp)
   
 ## Blogs:  
 * [Introduction](https://github.com/sabrina16/Blogs/blob/master/Blog1.md)
