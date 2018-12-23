@@ -25,7 +25,7 @@ https://docs.google.com/presentation/d/1pOl5MnmOWtnJZ-5Eo0zAPPGdd2fNu8Xm2DLC0UxS
 ## Link for startup instructions on MortgageCalculator.lisp and downloading CLisp  
 https://github.com/sabrina16/Blogs/blob/master/Setup_Instructions.md
 
-<h5>Checkout our program MortgageCalculator.lisp [here!](https://github.com/sabrina16/Blogs/blob/master/MortgageCalculator.lisp)</h5>
+<h5>Checkout our program MortgageCalculator.lisp [here!](https://github.com/sabrina16/Blogs/blob/master/MortgageCalculator.lisp) </h5>
 
 ## Blogs:
 * [Introduction](https://github.com/sabrina16/Blogs/blob/master/Blog1.md)
