@@ -24,3 +24,13 @@ https://docs.google.com/presentation/d/1pOl5MnmOWtnJZ-5Eo0zAPPGdd2fNu8Xm2DLC0UxS
 
 ## Link for startup instructions on MortgageCalculator.lisp and downloading CLisp  
 https://github.com/sabrina16/Blogs/blob/master/Setup_Instructions.md
+
+## Blogs:
+* [Introduction](https://github.com/sabrina16/Blogs/blob/master/Blog1.md)
+* [Computations and Syntax](https://github.com/sabrina16/Blogs/blob/master/Blog2_Syntax.md)
+* [File IO](https://github.com/sabrina16/Blogs/blob/master/Blog3_FileIO.md)
+* [Abstract Reduction Systems (ARS)](https://github.com/sabrina16/Blogs/blob/master/Blog4_ARS.md)
+* [Rewriting String using ARS Exercises](https://github.com/sabrina16/Blogs/blob/master/String%20Rewriting.md)
+* [Termination](https://github.com/sabrina16/Blogs/blob/master/Blog5_Termination.md)
+* [Termination Exercise](https://github.com/sabrina16/Blogs/blob/master/Termination%20Exercise.md)
+* [Partial Correctness](https://github.com/sabrina16/Blogs/blob/master/Blog6_Partial%20Correctness.md)
